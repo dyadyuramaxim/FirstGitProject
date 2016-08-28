@@ -1,0 +1,6 @@
+D:\Git-project\FirstGitProject\FirstGitProject\bin\Debug\FirstGitProject.exe.config
+D:\Git-project\FirstGitProject\FirstGitProject\bin\Debug\FirstGitProject.exe
+D:\Git-project\FirstGitProject\FirstGitProject\bin\Debug\FirstGitProject.pdb
+D:\Git-project\FirstGitProject\FirstGitProject\obj\Debug\FirstGitProject.csprojResolveAssemblyReference.cache
+D:\Git-project\FirstGitProject\FirstGitProject\obj\Debug\FirstGitProject.exe
+D:\Git-project\FirstGitProject\FirstGitProject\obj\Debug\FirstGitProject.pdb
